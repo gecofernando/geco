@@ -9,7 +9,7 @@ body {
 
 .Header {
   background-color: #FFCE2C;
-  background-image: url("Img/home/peg.jpg");
+  background-image: "Img/home/peg.jpg";
   background-repeat: no-repeat;
   background-size: 87.5em 7.5em;
   background-position: center;
