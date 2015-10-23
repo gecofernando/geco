@@ -1,0 +1,9 @@
+body {
+background-color: #3286D7;
+}
+
+
+
+.animation {
+text-align: blue;
+}

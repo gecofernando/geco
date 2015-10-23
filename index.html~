@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" href="style/index.css">
+  <title> Geco </title>
+</head>
+
+<body>
+  <div class= "Header">
+    <a href= "/home/fernando/Desktop/WEB/index.html">
+      <h1> Geco </h1>
+      <h2> Fernando Kopelman </h2>
+    </a>
+  </div>
+
+  <table style="width:100%">
+    <tr>
+
+      <th class= "Blank">
+      </th>
+
+      <th class= "Animation">
+        <a href="http://geco.tumblr.com">
+          <div class = "Animation">
+            <h3> Animation </h3>
+            <h4> Traditional & Digital </h4>
+            <h4> Character Design </h4>
+            <h4> Storyboard & Layout </h4>
+          </div>
+          <img class= "Animation" src="/home/fernando/Desktop/WEB/Img/home/img 4.jpg" width="400" height="600">
+        </a>
+      </th>
+
+
+      <th class= "Blank">
+      </th>
+
+      <th class= "Illustration">
+        <a href="/home/fernando/Desktop/WEB/Illustration.html">
+          <div class= "Illustration">
+            <img class= "Illustration" src="/home/fernando/Desktop/WEB/Img/home/img4.jpg" width="400" height="600">
+            <h3> Illustration </h3>
+          </div>
+        </a> 
+      </th>
+
+      <th class= "Blank">
+      </th>
+
+      <th class= "More">
+        <a href="http://geco.tumblr.com">
+          <div class= "More">
+            <h3> And More </h3>
+            <h4> Theatre </h4>
+            <h4> Texts </h4>
+          </div>
+          <img class= "More" src="/home/fernando/Desktop/WEB/Img/home/img4.jpg" width="400" height="600">
+        </a>
+      </th>
+
+      <th class= "Blank">
+      </th>
+
+    </tr>
+  </table>
+
+</body>
+</html>
